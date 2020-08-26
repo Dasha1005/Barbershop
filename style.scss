@@ -31,7 +31,7 @@ ul{
   justify-content: center;
   @include font-size(40px,500,59px,#fff,0.2em);
   font-family:Oswald, sans-serif;
-  padding-top: 40px;
+  padding-top: 38px;
   position: relative;
 }
 .span{
@@ -50,7 +50,7 @@ ul{
   justify-content: center;
   font-family: Rouge Script,sans-serif;
   @include font-size(160px,bold,188px,#fff,0.02em);
-  padding-top: 75px;
+  margin-top: 20px;
   position: relative;
 }
 .header__subtitle{
