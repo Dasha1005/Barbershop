@@ -230,30 +230,29 @@ ul{
 .title{
   @include font-size(40px,500,59px,#000,0);
   font-family:Oswald, sans-serif;
- }
+  display: flex;
+}
+.title::before{
+  content: ' ';
+  width: 65px;
+  height: 1px;
+  background: rgba(0, 0, 0, 0.15);
+  justify-content: center;
+  margin-top: 30px;
+  margin-right: 20px;
+}
+.title::after{
+  content: ' ';
+  width: 65px;
+  height: 1px;
+  background: rgba(0, 0, 0, 0.15);
+  justify-content: center;
+  margin-top: 30px;
+  margin-left: 20px;
+}
 .about-us__title{
   margin-left: 355px;
   margin-bottom: 40px;
-  position: relative;
-}
-
-.about-us__title::before{
-  content: ' ';
-  width: 65px;
-  height: 1px;
-  background: rgba(0, 0, 0, 0.15);
-  position: absolute;
-  left: -85px;
-  top: 30px;
-}
-.about-us__title::after{
-  content: ' ';
-  width: 65px;
-  height: 1px;
-  background: rgba(0, 0, 0, 0.15);
-  position: absolute;
-  left: 110px;
-  top: 30px;
 }
 .about-us__list{
   @include font-size(18px,normal,27px,#000,0);
@@ -277,29 +276,55 @@ ul{
 .about-us img{
   margin-bottom: 100px;
 }
+.slick-btn{
+  border: none;
+  background-color: #fff;
+  margin-bottom: 13px;
+}
+.slick-prev{
+  position: relative;
+  left: 45px;
+}
+.slick-next{
+  position: absolute;
+  right: 45px;
+  top: 0;
+}
 .about-us__inner{
   margin-bottom: 175px;
 }
 .our-team__title{
-  display: flex;
   justify-content: center;
   margin-bottom: 30px;
 }
-.our-team__title::before{
-  content: ' ';
-  width: 65px;
-  height: 1px;
-  background: rgba(0, 0, 0, 0.15);
-  justify-content: center;
-  margin-top: 30px;
-  margin-right: 20px;
+
+.our-team__name{
+  padding-top: 20px;
+  padding-left: 115px;
+  @include font-size(22px,500,33px,#000,0);
+  font-family: Oswald,sans-serif;
 }
-.our-team__title::after{
-  content: ' ';
-  width: 65px;
-  height: 1px;
-  background: rgba(0, 0, 0, 0.15);
+.our-team__position{
+  padding-top: 10px;
+  padding-left: 122px;
+  @include font-size(16px,300,19px,#000,0);
+  font-family: Roboto,sans-serif;
+}
+.top-position{
+  padding-left: 100px;
+}
+.our-team__btn>span{
+  @include font-size(18px,400,27px,#7B6515,0.03em);
+  font-family: Oswald,sans-serif;
+  text-decoration: underline;
+}
+.our-team__btn{
+  border: none;
+  background-color: white;
+  margin-top: 15px;
+  padding-left: 97px;
+  padding-bottom: 107px;
+}
+.gallery__title{
   justify-content: center;
-  margin-top: 30px;
-  margin-left: 20px;
 }

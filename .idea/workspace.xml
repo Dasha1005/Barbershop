@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d06cc58c-09dd-4671-aeef-4bce27621436" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/instagram.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
@@ -79,7 +83,7 @@
       <workItem from="1597915510878" duration="1178000" />
       <workItem from="1597917510049" duration="5051000" />
       <workItem from="1597923727320" duration="48894000" />
-      <workItem from="1598459112595" duration="16740000" />
+      <workItem from="1598459112595" duration="31093000" />
     </task>
     <task id="LOCAL-00001" summary="changed styles at logo__img">
       <created>1598459265992</created>
@@ -88,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598459265992</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added section &quot;our-team&quot;">
+      <created>1598539218864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598539218864</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,17 +118,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changed styles at logo__img" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed styles at logo__img" />
+    <MESSAGE value="added section &quot;our-team&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="added section &quot;our-team&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="340" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597924166130">
+    <state x="340" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598646853365">
       <screen x="0" y="0" width="1218" height="720" />
     </state>
-    <state x="340" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1218.720@0.0.1218.720" timestamp="1597924166130" />
-    <state x="233" y="0" key="CommitChangelistDialog2" timestamp="1598459264667">
+    <state x="340" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1218.720@0.0.1218.720" timestamp="1598646853365" />
+    <state x="233" y="0" key="CommitChangelistDialog2" timestamp="1598539218313">
       <screen x="0" y="0" width="1218" height="720" />
     </state>
-    <state x="233" y="0" key="CommitChangelistDialog2/0.0.1218.720@0.0.1218.720" timestamp="1598459264667" />
+    <state x="233" y="0" key="CommitChangelistDialog2/0.0.1218.720@0.0.1218.720" timestamp="1598539218313" />
     <state x="93" y="93" width="1033" height="535" key="DiffContextDialog" timestamp="1597923665110">
       <screen x="0" y="0" width="1218" height="720" />
     </state>
@@ -126,13 +138,17 @@
       <screen x="0" y="0" width="1218" height="720" />
     </state>
     <state x="278" y="139" key="EditFileWatcherDialog/0.0.1218.720@0.0.1218.720" timestamp="1597924120338" />
-    <state x="390" y="116" key="FileChooserDialogImpl" timestamp="1598459096361">
+    <state x="390" y="116" key="FileChooserDialogImpl" timestamp="1598539417672">
       <screen x="0" y="0" width="1218" height="720" />
     </state>
-    <state x="390" y="116" key="FileChooserDialogImpl/0.0.1218.720@0.0.1218.720" timestamp="1598459096361" />
+    <state x="390" y="116" key="FileChooserDialogImpl/0.0.1218.720@0.0.1218.720" timestamp="1598539417672" />
     <state x="111" y="6" key="SettingsEditor" timestamp="1597924122917">
       <screen x="0" y="0" width="1218" height="720" />
     </state>
     <state x="111" y="6" key="SettingsEditor/0.0.1218.720@0.0.1218.720" timestamp="1597924122917" />
+    <state x="202" y="94" key="Vcs.Push.Dialog.v2" timestamp="1598647706455">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="202" y="94" key="Vcs.Push.Dialog.v2/0.0.1218.720@0.0.1218.720" timestamp="1598647706455" />
   </component>
 </project>
