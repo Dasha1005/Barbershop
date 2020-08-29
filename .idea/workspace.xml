@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d06cc58c-09dd-4671-aeef-4bce27621436" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
       <workItem from="1597915510878" duration="1178000" />
       <workItem from="1597917510049" duration="5051000" />
       <workItem from="1597923727320" duration="48894000" />
-      <workItem from="1598459112595" duration="32013000" />
+      <workItem from="1598459112595" duration="32753000" />
     </task>
     <task id="LOCAL-00001" summary="changed styles at logo__img">
       <created>1598459265992</created>
@@ -99,7 +99,28 @@
       <option name="project" value="LOCAL" />
       <updated>1598694717513</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added  slick-slider for section &quot;our-team&quot;">
+      <created>1598697548351</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598697548351</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added  slick-slider for section &quot;our-team&quot;">
+      <created>1598697646408</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598697646408</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changed way to images at section &quot;our-team&quot;">
+      <created>1598697857176</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598697857176</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,17 +141,18 @@
     <MESSAGE value="changed styles at logo__img" />
     <MESSAGE value="added section &quot;our-team&quot;" />
     <MESSAGE value="added  slick-slider for section &quot;our-team&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="added  slick-slider for section &quot;our-team&quot;" />
+    <MESSAGE value="changed way to images at section &quot;our-team&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed way to images at section &quot;our-team&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="340" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598646853365">
       <screen x="0" y="0" width="1218" height="720" />
     </state>
     <state x="340" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1218.720@0.0.1218.720" timestamp="1598646853365" />
-    <state x="233" y="0" key="CommitChangelistDialog2" timestamp="1598694715637">
+    <state x="233" y="0" key="CommitChangelistDialog2" timestamp="1598697856234">
       <screen x="0" y="0" width="1218" height="720" />
     </state>
-    <state x="233" y="0" key="CommitChangelistDialog2/0.0.1218.720@0.0.1218.720" timestamp="1598694715637" />
+    <state x="233" y="0" key="CommitChangelistDialog2/0.0.1218.720@0.0.1218.720" timestamp="1598697856234" />
     <state x="93" y="93" width="1033" height="535" key="DiffContextDialog" timestamp="1597923665110">
       <screen x="0" y="0" width="1218" height="720" />
     </state>
