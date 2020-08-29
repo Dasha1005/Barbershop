@@ -66,7 +66,7 @@ function getCoords(elem) {
 });
 
 $(function(){
-    $('.our__team__slider').slick({
+    $('.our-team__slider').slick({
         prevArrow: '<button type="button" class="slick-btn slick-prev">' +
             '<img src="images/arrow__previous.png" alt=""></button>',
         nextArrow: '<button type="button" class="slick-btn slick-next">' +
@@ -81,5 +81,22 @@ $(function(){
                 }
             },
         ]
-    });
+    })
+    $('.gallery__slider').slick({
+        prevArrow: '<button type="button" class="slick-btn slick-prev">' +
+            '<img src="images/arrow__previous.png" alt=""></button>',
+        nextArrow: '<button type="button" class="slick-btn slick-next">' +
+            '<img src="images/arrow__next.png" alt=""></button>',
+        autoplay:false,
+        slidesToShow: 4,
+        infinite: true,
+        responsive:[
+            {
+                breakpoint:601,
+                settings:{
+                    arrows:false
+                }
+            },
+        ]
+    })
 });

@@ -413,6 +413,40 @@ ul {
 
 .gallery__title {
   justify-content: center;
+  margin-bottom: 50px;
+}
+
+.gallery__slider .slick-track {
+  margin-left: 75px;
+}
+
+.gallery__slider .slick-btn {
+  margin-bottom: 40px;
+}
+
+.gallery__position {
+  position: relative;
+}
+
+.barber {
+  position: absolute;
+  bottom: -35px;
+  left: 122px;
+}
+
+.gallery__name {
+  margin: 0 0 130px 123px;
+  padding-top: 32px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  color: #000;
+  letter-spacing: 0;
+  font-family: Oswald, sans-serif;
+}
+
+.name {
+  margin-left: 131px;
 }
 
 /*# sourceMappingURL=style.css.map */
