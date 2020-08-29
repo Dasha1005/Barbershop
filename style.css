@@ -408,9 +408,7 @@ ul {
 .our-team__btn {
   border: none;
   background-color: white;
-  margin-top: 15px;
-  padding-left: 97px;
-  padding-bottom: 107px;
+  margin: 15px 0 107px 97px;
 }
 
 .gallery__title {
