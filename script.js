@@ -70,7 +70,7 @@ $(function(){
         prevArrow: '<button type="button" class="slick-btn slick-prev">' +
             '<img src="images/arrow__previous.png" alt=""></button>',
         nextArrow: '<button type="button" class="slick-btn slick-next">' +
-            '<img src="images/arrow-next.png" alt=""></button>',
+            '<img src="images/arrow__next.png" alt=""></button>',
         autoplay:false,
         slidesToShow: 3.62,
         responsive:[
