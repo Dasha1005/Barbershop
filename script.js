@@ -68,7 +68,7 @@ function getCoords(elem) {
 $(function(){
     $('.our__team__slider').slick({
         prevArrow: '<button type="button" class="slick-btn slick-prev">' +
-            '<img src="/images/arrow__previous.jpg" alt=""></button>',
+            '<img src="./images/arrow__previous.jpg" alt=""></button>',
         nextArrow: '<button type="button" class="slick-btn slick-next">' +
             '<img src="./images/arrow-next.jpg" alt=""></button>',
         autoplay:false,
