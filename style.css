@@ -542,8 +542,13 @@ input::placeholder {
 }
 
 footer ul {
-  color: #fff;
   padding-top: 34px;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 27px;
+  color: #fff;
+  letter-spacing: 0;
+  font-family: Oswald, sans-serif;
 }
 
 .footer__logo {
@@ -574,6 +579,24 @@ footer ul {
 
 .footer__work-time li:last-child {
   padding-top: 33px;
+  display: flex;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  color: #fff;
+  letter-spacing: 0;
+  font-family: Roboto, sans-serif;
+  margin-bottom: 15px;
+}
+
+.footer__subtitle {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  color: #fff;
+  letter-spacing: 0;
+  font-family: Roboto, sans-serif;
 }
 
 /*# sourceMappingURL=style.css.map */

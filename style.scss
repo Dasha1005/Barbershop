@@ -416,8 +416,9 @@ input::placeholder{
   justify-content: space-between;
 }
 footer ul{
-  color: #fff;
   padding-top: 34px;
+  @include font-size(18px,bold,27px,#fff,0);
+  font-family: Oswald,sans-serif;
 }
 .footer__logo{
   display: flex;
@@ -442,5 +443,13 @@ footer ul{
 }
 .footer__work-time li:last-child{
   padding-top: 33px;
+  display: flex;
+  justify-content: center;
+  @include font-size(12px,400,14px,#fff,0);
+  font-family: Roboto,sans-serif;
+  margin-bottom: 15px;
 }
-
+.footer__subtitle{
+  @include font-size(16px,400,19px,#fff,0);
+  font-family: Roboto,sans-serif;
+}
